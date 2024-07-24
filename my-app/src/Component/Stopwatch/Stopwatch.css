@@ -1,0 +1,23 @@
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    font-size: 80px;
+}
+.timer{
+    display: flex;
+    flex-direction: row;
+
+}
+.box{
+    color:white;
+    padding: 10px;
+    border: 2px solid white;
+}
+button{
+    margin: 10px;
+    font-size: 20px;
+    padding: 10px;
+}
